@@ -71,9 +71,10 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 ## CERTIFICATES  
 * [**Art Of Soft Skills**](https://stepik.org/cert/1810397)  
 * [**Software Testing From Scratch**](https://stepik.org/cert/1746469)  
+* [**JIRA: Task Management**](https://stepik.org/cert/1805912)  
+* [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)  
 * [**EFSET English**](https://www.efset.org/cert/1Fx8CF)  
-* [**JIRA: Task Management**](https://stepik.org/cert/1805912)
-* [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)
+![Certificate](https://i.imgur.com/8Z2TQX5.png)
 
 
 ## COURSES  
@@ -100,7 +101,6 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
   </head>
   <body>
     <h1>Sign up here</h1>
-
     <form action="" method="">
     <input type="text" placeholder="Name"><br>
     <input type="email" name="email" placeholder="E-mail"><br>
@@ -109,20 +109,20 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
     <input type="url" name="url" placeholder="LinkedIn link"><br>
     <br> Select your role:
     <select name="Role">
-        <option value="Developer">Developer</option>
+        <option value="Dev">Developer</option>
         <option value="DevOps">DevOps</option>
-        <option value="Designer">Designer</option>
+        <option value="Dsgn">Designer</option>
         <option value="QA">QA</option>
-        <option value="Service Manager">Service Manager</option>
+        <option value="SM">Service Manager</option>
     </select><br><br>Your gender<br>
     <input type="radio" name="gender" value="Male">Male<br>
     <input type="radio" name="gender" value="Female">Female<br>
-    <input type="radio" name="gender" value="Other">Idiot<br><br>Upload your CV:
+    <input type="radio" name="gender" value="Other">Other<br><br>
+    Upload your CV:
     <input type="file" name="CV"><br><br>
     <input type="checkbox">I have read and accept terms and conditions<br><br>
     <input type="submit">
-    <input type="reset">
-    
+    <input type="reset">    
     <button>Push me for fun</button>
 </form>
 ```
