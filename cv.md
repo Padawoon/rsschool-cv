@@ -1,5 +1,5 @@
 # DMITRII KHITRYI
-[![Motto](https://i.imgur.com/niUTiwr.png)(https://linktr.ee/khitryi)
+[![Motto](https://i.imgur.com/niUTiwr.png)](https://linktr.ee/khitryi)
 
 ## CONTACTS
 
