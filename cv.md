@@ -1,4 +1,5 @@
 # DMITRII KHITRYI
+[![Motto](https://i.imgur.com/niUTiwr.png)(https://linktr.ee/khitryi)
 
 ## CONTACTS
 
@@ -72,7 +73,8 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 * [**Art Of Soft Skills**](https://stepik.org/cert/1810397)  
 * [**Software Testing From Scratch**](https://stepik.org/cert/1746469)  
 * [**JIRA: Task Management**](https://stepik.org/cert/1805912)
-* [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)
+* [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)  
+* [**EFSET English**](https://www.efset.org/cert/1Fx8CF)
 [![Certificate](https://i.imgur.com/8Z2TQX5.png)](https://www.efset.org/cert/1Fx8CF)
 
 
