@@ -7,7 +7,7 @@
 📧**Mail:&nbsp;**[*dmitrii@khitryi.com*][mail] 
 ✈️**Telegram:&nbsp;**[*@dkhitryi*][tg] 
 🧠**GitHub:&nbsp;**[*padawoon*][git] 
-:deciduous_tree:**Linktree:&nbsp;**[*@khitryi*][tree]
+🎄**Linktree:&nbsp;**[*@khitryi*][tree]
 
 [tg]: https://t.me/dkhitryi
 [mail]: mailto:dmitrii@khitryi.com
