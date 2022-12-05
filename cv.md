@@ -39,9 +39,10 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 
 
 **LANGUAGES**  
+*russian* - native   
 *english* - [C1 Advanced](https://www.efset.org/cert/1Fx8CF)  
-*russian* - native  
-*simlish* - fluent
+[![Certificate](https://i.imgur.com/8Z2TQX5.png)](https://www.efset.org/cert/1Fx8CF)
+
 
 ## LAST EXPERIENCE  
 08/2022 - 11/2022  
@@ -75,7 +76,6 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 * [**JIRA: Task Management**](https://stepik.org/cert/1805912)
 * [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)  
 * [**EFSET English**](https://www.efset.org/cert/1Fx8CF)
-[![Certificate](https://i.imgur.com/8Z2TQX5.png)](https://www.efset.org/cert/1Fx8CF)
 
 
 ## COURSES  
