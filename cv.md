@@ -30,11 +30,11 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 
 ## SKILLS  
 **HARD**  
-*functional testing*, *non-functional testing*, *test documentation, *bug tracking, *web testing*, *mobile testing*, *SQL*, *Git*
+*functional testing*; *non-functional testing*; *test documentation*; *bug tracking*; *web testing*; *mobile testing*; *SQL*; *Git*; *HTML5 basics*;
 
 
 **SOFT**  
-*adaptability*, *communication*, *time management*, *problem-solving*, *teamwork*, *work ethic*, *interpersonal skills*  
+*adaptability*; *communication*; *time management*; *problem-solving*; *teamwork*; *work ethic*; *interpersonal skills*  
 
 
 **LANGUAGES**  
@@ -69,15 +69,15 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
     * Signed Hansa brand and trademark as protected by the Russian Federal Customs Service  
 
 ## CERTIFICATES  
-[**Art Of Soft Skills**](https://stepik.org/cert/1810397)  
-[**Software Testing From Scratch**](https://stepik.org/cert/1746469)  
-[**EFSET English**](https://www.efset.org/cert/1Fx8CF)  
-[**JIRA: Task Management**](https://stepik.org/cert/1805912)
-[**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)
+* [**Art Of Soft Skills**](https://stepik.org/cert/1810397)  
+* [**Software Testing From Scratch**](https://stepik.org/cert/1746469)  
+* [**EFSET English**](https://www.efset.org/cert/1Fx8CF)  
+* [**JIRA: Task Management**](https://stepik.org/cert/1805912)
+* [**Dummies Training For IT Recruit**](https://stepik.org/cert/1609345)
 
 
 ## COURSES  
-08/2022 - 11/2022
+08/2022 - 11/2022  
 **Software Testing Course**, by [Vadim Ksendzov](https://www.linkedin.com/in/vadim-ksendzov-74099837/)  
 * Software Testing basics
 * Test Documentation
@@ -88,3 +88,41 @@ Deep knowledge of mobile specs, technologies, stock or custom firmware, and soft
 * Dev Tools (Google ChromeFirefoxox)
 * Mobile testing
 * SQL
+
+## CODE EXAMPLE
+**Simple registration form**
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Registration</title>
+  </head>
+  <body>
+    <h1>Sign up here</h1>
+
+    <form action="" method="">
+    <input type="text" placeholder="Name"><br>
+    <input type="email" name="email" placeholder="E-mail"><br>
+    <input type="password" placeholder="Password"><br>
+    <input type="tel" name="phone" placeholder="Phone number"><br>
+    <input type="url" name="url" placeholder="LinkedIn link"><br>
+    <br> Select your role:
+    <select name="Role">
+        <option value="Developer">Developer</option>
+        <option value="DevOps">DevOps</option>
+        <option value="Designer">Designer</option>
+        <option value="QA">QA</option>
+        <option value="Service Manager">Service Manager</option>
+    </select><br><br>Your gender<br>
+    <input type="radio" name="gender" value="Male">Male<br>
+    <input type="radio" name="gender" value="Female">Female<br>
+    <input type="radio" name="gender" value="Other">Idiot<br><br>Upload your CV:
+    <input type="file" name="CV"><br><br>
+    <input type="checkbox">I have read and accept terms and conditions<br><br>
+    <input type="submit">
+    <input type="reset">
+    
+    <button>Push me for fun</button>
+</form>
+```
