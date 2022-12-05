@@ -34,13 +34,13 @@ Two years of Intellectual Property Management experience at Hansa
 **SOFT**  
 *adaptability*, *communication*, *time management*, *problem-solving*, *teamwork*, *work ethic*, *interpersonal skills*  
 **LANGUAGES**  
-*english* - [C1 Advanced][https://www.efset.org/cert/1Fx8CF]
+*english* - [C1 Advanced](https://www.efset.org/cert/1Fx8CF)
 *russian* - native
 *simlish* - fluent
 
 ## LAST EXPERIENCE  
 08/2022 - 11/2022  
-**QA Intern** at [**ITX**][https://www.linkedin.com/company/itxqa/]
+**QA Intern** at [**ITX**](https://www.linkedin.com/company/itxqa/)
 * Web and mobile (Android) testing:
     * ad-hoc, exploratory, E2E
     * smoke, critical path, extended, regression
@@ -55,7 +55,7 @@ Test Documentation:
     * test suites
 
 08/2022 - 11/2022  
-**E-commerce Manager** at [**Hansa**][https://www.hansa.ru]
+**E-commerce Manager** at [**Hansa**](https://www.hansa.ru)
 * Achievements:
     * Built Hansa E-store from scratch in cooperation with a 3rd-party company
     * Developed a basic Hansa rich content concept, which is currently used in all distribution channels
