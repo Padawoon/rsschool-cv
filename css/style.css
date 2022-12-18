@@ -5,7 +5,7 @@ html {
   scroll-behavior: smooth;
 }
 html {
-  background-image: url("./assets/img/background.jpg");
+  background-image: url("../assets/img/background.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -162,40 +162,40 @@ pre code {
 }
 
 .contacts-item.location {
-  background-image: url("./assets/svg/location.svg");
+  background-image: url("../assets/svg/location.svg");
 }
 .contacts-item.email {
-  background-image: url("./assets/svg/email.svg");
+  background-image: url("../assets/svg/email.svg");
 }
 .contacts-item.telegram {
-  background-image: url("./assets/svg/telegram.svg");
+  background-image: url("../assets/svg/telegram.svg");
 }
 .contacts-item.discord {
-  background-image: url("./assets/svg/discord.svg");
+  background-image: url("../assets/svg/discord.svg");
 }
 .contacts-item.linkedin {
-  background-image: url("./assets/svg/linkedin.svg");
+  background-image: url("../assets/svg/linkedin.svg");
 }
 .contacts-item.github {
-  background-image: url("./assets/svg/github.svg");
+  background-image: url("../assets/svg/github.svg");
 }
 .skill-item.html {
-  background-image: url("./assets/svg/html5.svg");
+  background-image: url("../assets/svg/html5.svg");
 }
 .skill-item.css {
-  background-image: url("./assets/svg/css3.svg");
+  background-image: url("../assets/svg/css3.svg");
 }
 .skill-item.sql {
-  background-image: url("./assets/svg/mysql.svg");
+  background-image: url("../assets/svg/mysql.svg");
 }
 .skill-item.git {
-  background-image: url("./assets/svg/git.svg");
+  background-image: url("../assets/svg/git.svg");
 }
 .skill-item.devt {
-  background-image: url("./assets/svg/chrome.svg");
+  background-image: url("../assets/svg/chrome.svg");
 }
 .skill-item.task {
-  background-image: url("./assets/svg/jira.svg");
+  background-image: url("../assets/svg/jira.svg");
 }
 .course {
   background-image: url("https://rs.school/images/rs_school_js.svg");
