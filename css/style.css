@@ -1,0 +1,265 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+html {
+  background-image: url("/assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body {
+  font-family: "Roboto Flex", "Mukta", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+  color: #475249;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+p {
+  line-height: 22px;
+}
+.main {
+  margin-top: 0px;
+  margin-bottom: auto;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.nav-link {
+  text-decoration: none;
+  display: inline-block;
+  width: 140px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 15px;
+  font-family: "Roboto Flex", sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 800;
+  color: #524f4e;
+  background: white;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+.nav-link:hover {
+  background: #443ea2;
+  box-shadow: 0 15px 20px rgba(68, 62, 162, 0.4);
+  color: white;
+  transform: translateY(-7px);
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  left: 110px;
+}
+.title-profile {
+  font-size: 2em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #443ea2;
+}
+.section-title {
+  font-size: 20px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #443ea2;
+  border-bottom: 2px solid #443ea2;
+  text-align: center;
+  padding: 3px;
+}
+.job-title {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #443ea2;
+}
+.avatar {
+  width: 360px;
+  border-radius: 45px;
+  filter: grayscale(100%);
+  margin-right: 20px;
+}
+pre code {
+  background-color: #eee;
+  border: 1px solid #443ea2;
+  display: inline-block;
+  padding: 20px;
+  position: relative;
+  left: 100px;
+}
+.section-contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.contacts-item {
+  padding: 0 20px;
+  font-weight: bold;
+  list-style: none;
+  background-repeat: no-repeat;
+}
+.section-skill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.skill-item {
+  padding: 0 20px;
+  font-weight: bold;
+  list-style: none;
+  background-repeat: no-repeat;
+}
+.course {
+  font-weight: bold;
+  font-weight: bold;
+  list-style: none;
+  background-repeat: no-repeat;
+  padding-top: 0;
+  padding-left: 50px;
+  text-align: center;
+}
+#courses {
+  text-align: center;
+}
+.edu {
+  font-weight: bold;
+  font-weight: bold;
+  list-style: none;
+  background-repeat: no-repeat;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-right: 10px;
+  text-align: center;
+}
+#education {
+  text-align: center;
+}
+
+.contacts-item.location {
+  background-image: url("/assets/svg/location.svg");
+}
+.contacts-item.email {
+  background-image: url("/assets/svg/email.svg");
+}
+.contacts-item.telegram {
+  background-image: url("/assets/svg/telegram.svg");
+}
+.contacts-item.discord {
+  background-image: url("/assets/svg/discord.svg");
+}
+.contacts-item.linkedin {
+  background-image: url("/assets/svg/linkedin.svg");
+}
+.contacts-item.github {
+  background-image: url("/assets/svg/github.svg");
+}
+.skill-item.html {
+  background-image: url("/assets/svg/html5.svg");
+}
+.skill-item.css {
+  background-image: url("/assets/svg/css3.svg");
+}
+.skill-item.sql {
+  background-image: url("/assets/svg/mysql.svg");
+}
+.skill-item.git {
+  background-image: url("/assets/svg/git.svg");
+}
+.skill-item.devt {
+  background-image: url("/assets/svg/chrome.svg");
+}
+.skill-item.task {
+  background-image: url("/assets/svg/jira.svg");
+}
+.course {
+  background-image: url("https://rs.school/images/rs_school_js.svg");
+}
+.edu {
+  background-image: url("https://gitr.ru/wp-content/themes/gitr/img/logo.svg");
+}
+
+a.contacts:link {
+  text-decoration: none;
+  color: #475249;
+}
+
+a.contacts:visited {
+  text-decoration: none;
+  color: #443ea2;
+}
+a.contacts:hover {
+  transition: 0.1s;
+  color: #443ea2;
+  border-bottom: 2px solid #443ea2;
+}
+a.course:link {
+  text-decoration: none;
+  color: #475249;
+}
+a.course:visited {
+  text-decoration: none;
+  color: #443ea2;
+}
+a.course:hover {
+  transition: 0.1s;
+  color: #443ea2;
+  border-bottom: 2px solid #443ea2;
+  border-spacing: 2px;
+}
+a.edu:link {
+  text-decoration: none;
+  color: #475249;
+}
+a.edu:visited {
+  text-decoration: none;
+  color: #443ea2;
+}
+a.edu:hover {
+  transition: 0.1s;
+  color: #443ea2;
+  border-bottom: 2px solid #443ea2;
+  border-spacing: 2px;
+}
+a.gitlink {
+  text-decoration: none;
+}
+#languages {
+  text-align: center;
+}
+.rslogo {
+  position: relative;
+  left: 180px;
+  width: 200px;
+}
+.mygit {
+  text-align: right;
+  position: relative;
+  left: -180px;
+  bottom: 20px;
+}
